@@ -1,0 +1,10 @@
+{
+  "name": "697_degree_of_an_array",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nikita <xpom5566@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
